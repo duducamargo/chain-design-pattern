@@ -73,6 +73,8 @@ build/
 # ========================
 # Ignore local test outputs
 bin/
+./bin/
+lib/
 out/
 logs/
 temp/
