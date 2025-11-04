@@ -1,0 +1,78 @@
+# ========================
+# Java build and runtime
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# ========================
+# Logs and temp files
+# ========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# ========================
+# IDEs and Editors
+# ========================
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ========================
+# OS generated files
+# ========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ========================
+# Build tools (optional)
+# ========================
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# ========================
+# Custom project exclusions
+# ========================
+# Ignore local test outputs
+bin/
+out/
+logs/
+temp/
